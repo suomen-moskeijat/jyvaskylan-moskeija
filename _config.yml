@@ -1,0 +1,10 @@
+# Masjid An-Nur Jyväskylä – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid An-Nur Jyväskylä"
+description: "Masjid An-Nur Jyväskylä, Vaasankatu 4 A, 40100 Jyväskylä. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-an-nur-jyvaskyla     # tiedosto _moskeijat/masjid-an-nur-jyvaskyla.md
+
+# Osoite: https://suomen-moskeijat.github.io/jyvaskylan-moskeija/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/jyvaskylan-moskeija"
